@@ -40,13 +40,11 @@
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Akilalochana&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
 </td>
 
 <td width="50%" align="center">
-
-
-  
+<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Akilalochana&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   </td>
 </tr>
 </table>
